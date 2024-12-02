@@ -13,3 +13,19 @@
     padding: 10px;
     border-radius: 6px;
 }
+.modal-body{
+    position: relative;
+}
+
+.range-numbers{
+    pointer-events: none;
+    font-size: medium;
+    opacity: .4;
+    font-weight: 500;
+    width: 92.2%;
+    left: 4%;
+    top: 65.5%;
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+}
